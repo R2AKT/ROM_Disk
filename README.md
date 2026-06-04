@@ -4,7 +4,7 @@ License addendum - https://github.com/R2AKT/ROM_Disk/blob/main/Addendum.txt
 
 <img src="ROMDisk_top.png">
 
-ROM disk board. For connecting to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+ROM disk board. For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 Based on ROM-disk for RADIO-86RK.
 
